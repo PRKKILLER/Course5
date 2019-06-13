@@ -1,0 +1,4 @@
+Sentiment,Battery,Picture,Sound,Value,Fingerprint
+Positive,72,62,66,100,45
+Negative,24,25,33,0,45
+Neutral,3,4,0,0,4
